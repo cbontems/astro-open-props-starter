@@ -39,11 +39,7 @@
   },
   "config": {
     "commitizen": {
-      "path": "./node_modules/cz-conventional-changelog",
-      "name": "cz_conventional_commits",
-      "tag_format": "v$version",
-      "version_type": "semver",
-      "version_provider": "npm"
+      "path": "./node_modules/cz-conventional-changelog"
     }
   }
 }
